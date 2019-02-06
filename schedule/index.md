@@ -19,6 +19,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Jan 31  | Responsibility      | *Four Ways to Make CS and IT More Immersive*, Thomas A. Limoncelli (ACM - 10/17) <br /> *Toward Algorithmic Transparency and Accountability*, Simson Garfinkel, Jeanna Matthews, Stuart S. Shapiro, Jonathan M. Smith (ACM - 9/17) <br /> *Assuring Software Quality By Preventing Neglect*, Robin K. Hill (ACM - 9/17) <br /> *Breadth and Depth*, Kate Matsudaira (ACM - 11/17) |
 > Feb 5  | IP - Copyrights     | *Intellectual Property, Part I*, Gaff, Loren, and McCool (IEEE - 1/12) <br /> *New Exemptions to Anti-Circumvention Rules*, Pamela Samuelson (ACM - 3/16) <br /> *Who Owns the Social Web?*, Catherine C. Marshall, Frank M. Shipman (ACM - 5/17) |
 > Feb 7 | IP - Patents        | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Disgorging Profits in Design Patent Cases*, Pamela Samuelson (ACM - 11/17) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
+> Feb 12 | **EXAM I PART I Discussion**   |  | 
+> Feb 14 | **EXAM I PART I Writeup**   |  | 
 
 
 <!--

@@ -19,6 +19,7 @@ All information about the course will be posted here.
 * **Jan 24** - Welcome back!
 * **Feb 12** - Exam 1 Part 1 Discussion
 * **Feb 15 - Exam 1 Part 1 Due** upload a .pdf to Marmoset by 5:00pm
+* **Mar 5, 7 - NO CLASS, WINTER BREAK**
 
 <!--
 * **Sept 13** - Exam 1 Part 1 Discussion

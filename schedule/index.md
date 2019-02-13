@@ -21,12 +21,14 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 7 | IP - Patents        | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Disgorging Profits in Design Patent Cases*, Pamela Samuelson (ACM - 11/17) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
 > Feb 12 | **EXAM I PART I Discussion**   |  | 
 > Feb 14 | **EXAM I PART I Writeup**   |  | 
-
+> Feb 19 | Privacy - I         | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *When Does Law Enforcement's Demand to Read Your Data Become a Demand to Read Your Mind?*, Andrew Conway and Peter Eckersley (ACM - 9/17) | 
+> Feb 21 | Privacy - II        | *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) <br /> *More Encryption Means Less Privacy*, Poul-Henning Kamp (ACM - 4/16) <br /> *Welcome to the Singularity*, David Allen Batchelor (ACM - 2/18) | 
+> Feb 26 | Security - I        |  *Privacy and Security: Summing Up*, Susan Landau (ACM - 11/14) <br /> *Cyber Insecurity and Cyber Libertarianism*, Moshe Y. Vardi (ACM - 5/17)|
+> Feb 28 | Security - II       | *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *Trustworthiness and Truthfulness Are Essential*, Peter G. Neumann (ACM - 6/17) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17)|  
+> Mar 5  | **NO CLASS - WINTER BREAK** | |  
+> Mar 7  | **NO CLASS - WINTER BREAK** | |  
 
 <!--
-> Sept 6  | IP - Copyrights     | *Intellectual Property, Part I*, Gaff, Loren, and McCool (IEEE - 1/12) <br /> *New Exemptions to Anti-Circumvention Rules*, Pamela Samuelson (ACM - 3/16) <br /> *Who Owns the Social Web?*, Catherine C. Marshall, Frank M. Shipman (ACM - 5/17) |
-> Sept 11 | IP - Patents        | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Disgorging Profits in Design Patent Cases*, Pamela Samuelson (ACM - 11/17) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
-> Sept 13 | **EXAM I PART I**   |  | 
 > Sept 18 | Privacy - I         | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *When Does Law Enforcement's Demand to Read Your Data Become a Demand to Read Your Mind?*, Andrew Conway and Peter Eckersley (ACM - 9/17) | 
 > Sept 20 | Privacy - II        | *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) <br /> *More Encryption Means Less Privacy*, Poul-Henning Kamp (ACM - 4/16) <br /> *Welcome to the Singularity*, David Allen Batchelor (ACM - 2/18) | 
 > Sept 25 | Security - I        |  *Privacy and Security: Summing Up*, Susan Landau (ACM - 11/14) <br /> *Cyber Insecurity and Cyber Libertarianism*, Moshe Y. Vardi (ACM - 5/17)|

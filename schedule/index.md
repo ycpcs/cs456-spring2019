@@ -27,12 +27,27 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 28 | Security - II       | *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *Trustworthiness and Truthfulness Are Essential*, Peter G. Neumann (ACM - 6/17) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17)|  
 > Mar 5  | **NO CLASS - WINTER BREAK** | |  
 > Mar 7  | **NO CLASS - WINTER BREAK** | |  
+> Mar 12 | Individual          | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Portable Device Fears Show Power of Social Development*, Chris Edwards (ACM - 10/17) |  
+> Mar 14 | Society             | *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Smartphone Apps for Social Good*, Logan Kugler (ACM - 8/16)  <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17) |  
+> Mar 19 | **EXAM I PART II Discussion**  | |
+> Mar 21 | **EXAM I PART II Writeup**     | |
+> Mar 26 | Jason Porter        | |
+> Mar 28 | Cody Spath          | |
+> Apr 2  | Nick Vandemark      | |
+> Apr 4  | Ron Stevenson       | |
+> Apr 9  | Brad Ruser          | |
+> Apr 11 | Aaron Gervasio      | |
+> Apr 16 | Joey Hopkins        | |
+> Apr 18 | **NO CLASS - SPRING BREAK** | |
+> Apr 23 | Terrell Clark       | |
+> Apr 25 | Chihea Locke        | |
+> Apr 30 | Logan Ferree        | |
+> May 2  | Ryan Vincent        | |
+> May 7  | David Henry         | |
+> May 9  | **EXAM II Discussion**         | |
+
 
 <!--
-> Sept 18 | Privacy - I         | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *When Does Law Enforcement's Demand to Read Your Data Become a Demand to Read Your Mind?*, Andrew Conway and Peter Eckersley (ACM - 9/17) | 
-> Sept 20 | Privacy - II        | *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) <br /> *More Encryption Means Less Privacy*, Poul-Henning Kamp (ACM - 4/16) <br /> *Welcome to the Singularity*, David Allen Batchelor (ACM - 2/18) | 
-> Sept 25 | Security - I        |  *Privacy and Security: Summing Up*, Susan Landau (ACM - 11/14) <br /> *Cyber Insecurity and Cyber Libertarianism*, Moshe Y. Vardi (ACM - 5/17)|
-> Sept 27 | Security - II       | *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *Trustworthiness and Truthfulness Are Essential*, Peter G. Neumann (ACM - 6/17) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17)|  
 > Oct 2   | Individual          | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Portable Device Fears Show Power of Social Development*, Chris Edwards (ACM - 10/17) |  
 > Oct 4   | Society             | *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Smartphone Apps for Social Good*, Logan Kugler (ACM - 8/16)  <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17) |  
 > Oct 9   | **EXAM I PART II**  | |

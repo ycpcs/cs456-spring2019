@@ -31,7 +31,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 14 | Society             | *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Smartphone Apps for Social Good*, Logan Kugler (ACM - 8/16)  <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17) |  
 > Mar 19 | **EXAM I PART II Discussion**  | |
 > Mar 21 | **EXAM I PART II Writeup**     | |
-> Mar 26 | Jason Porter        | |
+> Mar 26 | *Genetic Engineering* <br /> Jason Porter | *Ambry Genetics Launches Cost-free, Cloud-based Software to Help Clinicians and Researchers Maximize Genetic and Family History Data* (PR Newswire - 1/16) <br /> *Cracking the Code on DNA Storage*, Samuel Greengard (ACM - 7/17) <br /> *The Many Facets of Natural Computing*, Lila Kari and Grzegorz Rozenberg (ACM - 10/18) <br /> [Genetic Engineering Will Change Everything Forever - CRISPR](https://www.youtube.com/watch?v=jAhjPd4uNFY) |
 > Mar 28 | Cody Spath          | |
 > Apr 2  | Nick Vandemark      | |
 > Apr 4  | Ron Stevenson       | |

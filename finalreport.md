@@ -3,7 +3,7 @@ layout: default
 title: "Final Report"
 ---
 
-**Due: Tuesday, May 14th by 11:59pm**
+**Due: Wednesday, May 15th by 11:59pm**
 
 The paper is based off of the topic you selected for your class discussion. The purpose is to discuss in depth the impact of the issue on both the industry and society as a whole.
 

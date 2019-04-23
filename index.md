@@ -20,15 +20,7 @@ All information about the course will be posted here.
 * **Feb 12** - Exam 1 Part 1 Discussion
 * **Feb 15 - Exam 1 Part 1 Due** upload a .pdf to Marmoset by 5:00pm
 * **Mar 5, 7 - NO CLASS, WINTER BREAK**
-
-<!--
-* **Sept 13** - Exam 1 Part 1 Discussion
-* **Sept 18 - Exam 1 Part 1 Due** upload a .pdf to Marmoset by 12:30pm
-* **Oct 9** - Exam 1 Part 2 Discussion
-* **Oct 12 - Exam 1 Part 2 Due** upload a .pdf to Marmoset by 11:59pm
-* **Oct 16 - NO CLASS, FALL BREAK**
-* **Nov 22 - NO CLASS, THANKSGIVING BREAK**
-* **Dec 6** - Exam 2 Discussion
-* **Dec 11 - Exam 2 Due** upload a .pdf to Marmoset by 11:59pm
-* **Dec 17 - Final Report Due by 11:59pm**
--->
+* **Apr 18 - NO CLASS, SPRING BREAK**
+* **May 9** - Exam 2 Discussion
+* **May 14 - Exam 2 Due** upload a .pdf to Marmoset by 11:59pm
+* **May 15 - Final Report Due by 11:59pm**

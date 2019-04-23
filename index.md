@@ -22,5 +22,5 @@ All information about the course will be posted here.
 * **Mar 5, 7 - NO CLASS, WINTER BREAK**
 * **Apr 18 - NO CLASS, SPRING BREAK**
 * **May 9** - Exam 2 Discussion
-* **May 14 - Exam 2 Due** upload a .pdf to Marmoset by 11:59pm
-* **May 15 - Final Report Due by 11:59pm**
+* **May 14 - Exam 2 Due** upload a .pdf to [Marmoset](https://cs.ycp.edu/marmoset/login) by 11:59pm
+* **May 15 - Final Report Due by 11:59pm** upload a .pdf to [Marmoset](https://cs.ycp.edu/marmoset/login) by 11:59pm
